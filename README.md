@@ -11,16 +11,13 @@
         <img 
              src="https://github-readme-stats.vercel.app/api?username=maximizzar&show_icons=true&theme=transparent" 
              alt="" 
-             height="192px"/>
+             height="144px"/>
         <img 
              src="https://github-readme-stats.vercel.app/api/top-langs/?username=maximizzar&layout=compact&theme=transparent&langs_count=4" 
              alt="" 
-             height="192px"/>
+             height="144px"/>
     </a>
 </p>
-
-![maximizzar's github-stats](https://github-readme-stats.vercel.app/api?username=maximizzar&theme=transparent&show_icons=true)
-
 };
 <!---
 maximizzar/maximizzar is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
