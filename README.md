@@ -5,28 +5,28 @@
 - 💞️ I’m looking to collaborate with good thoughts to seek happiness :D.
 ### }
 ## maximizzar.tech() {
-<img align="left" alt="firefox" width="32px" style="padding-right:8px;" 
+<img align="left" alt="firefox" width="36px" style="padding-right:12px;" 
 	src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firefox/firefox-plain-wordmark.svg"/>
 	
-<img align="left" alt="java" width="32px" style="padding-right:8px;" 
+<img align="left" alt="java" width="36px" style="padding-right:12px;" 
 	src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
 
-<img align="left" alt="linux" width="32px" style="padding-right:8px;" 
+<img align="left" alt="linux" width="36px" style="padding-right:12px;" 
 	src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg"/>
 
-<img align="left" alt="docker" width="32px" style="padding-right:8px;" 
+<img align="left" alt="docker" width="36px" style="padding-right:12px;" 
 	src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg"/> 
 
-<img align="left" alt="git" width="32px" style="padding-right:8px;" 
+<img align="left" alt="git" width="36px" style="padding-right:12px;" 
 	src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original-wordmark.svg"/>
 
-<img align="left" alt="markdown" width="32px" style="padding-right:8px;" 
+<img align="left" alt="markdown" width="36px" style="padding-right:12px;" 
 	src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/markdown/markdown-original.svg" />
 
-<img align="left" alt="html5" width="32px" style="padding-right:8px;" 
+<img align="left" alt="html5" width="36px" style="padding-right:8px;" 
 	src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" />
 
-<img align="left" alt="nginx" width="32px" style="padding-right:8px;" 
+<img align="left" alt="nginx" width="36px" style="padding-right:12px;" 
 	src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" />
 <br />
 ### }
