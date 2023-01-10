@@ -5,8 +5,8 @@
 - 💞️ I’m looking to collaborate with my self and happines more often.
 }
 ## maximizzar.tech() {
-    <img align="left" alt="firefox" width="32px" style="padding-right:8px;"
-         src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firefox/firefox-plain-wordmark.svg"/>
+    <img align="left" alt="firefox" width="32px" style="padding-right:8px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firefox/firefox-plain-wordmark.svg"/>
 
     <img align="left" alt="java" width="32px" style="padding-right:8px;" 
          src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
@@ -28,6 +28,8 @@
           
     <img align="left" alt="nginx" width="32px" style="padding-right:8px;"
          src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" /> 
+         
+<br/>
 }
 
 ## maximizzar.stats() {
