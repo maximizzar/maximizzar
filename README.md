@@ -6,6 +6,8 @@
 }
 ## maximizzar.tech() {
 
+### junge
+
     <img align="left" alt="firefox" width="32px" style="padding-right:8px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firefox/firefox-plain-wordmark.svg"/>
     <img align="left" alt="java" width="32px" style="padding-right:8px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
     <img align="left" alt="linux" width="32px" style="padding-right:8px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg"/>
@@ -14,7 +16,9 @@
     <img align="left" alt="markdown" width="32px" style="padding-right:8px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/markdown/markdown-original.svg" />
     <img align="left" alt="html5" width="32px" style="padding-right:8px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" />
     <img align="left" alt="nginx" width="32px" style="padding-right:8px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" /> 
-<br/>
+<br />
+
+# 
 }
 
 ## maximizzar.stats() {
