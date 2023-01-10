@@ -5,7 +5,6 @@
 - 💞️ I’m looking to collaborate with my self and happines more often.
 }
 ## maximizzar.tech() {
-<div>
     <img align="left" alt="firefox" width="32px" style="padding-right:8px;"
          src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firefox/firefox-plain-wordmark.svg"/>
 
@@ -29,7 +28,6 @@
           
     <img align="left" alt="nginx" width="32px" style="padding-right:8px;"
          src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" /> 
-</div>
 }
 
 ## maximizzar.stats() {
