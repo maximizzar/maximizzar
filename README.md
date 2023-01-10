@@ -1,13 +1,13 @@
 ## maximizzar.me() {
 - 👋 Hi, I’m @maximizzar
-- 👀 I’m interested in system administration(Linux, Proxmox, docker, lxc, you name it).
+- 👀 I’m currently and mostly interested in system administration(Linux, Proxmox, docker, lxc, you name it).
 - 🌱 I’m currently learning computer science at my university.
-- 💞️ I’m looking to collaborate with my self and happines more often.
-}
+- 💞️ I’m looking to collaborate with good thoughts to seek happiness :D.
+### }
 ## maximizzar.tech() {
 <img align="left" alt="firefox" width="32px" style="padding-right:8px;" 
 	src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firefox/firefox-plain-wordmark.svg"/>
-
+	
 <img align="left" alt="java" width="32px" style="padding-right:8px;" 
 	src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
 
@@ -28,11 +28,8 @@
 
 <img align="left" alt="nginx" width="32px" style="padding-right:8px;" 
 	src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" />
-
 <br />
-
-<p>}</p>
-
+### }
 ## maximizzar.stats() {
 <p align="center">
     <a href="https://github.com/maximizzar" style="width: 90%">
@@ -46,8 +43,8 @@
              height="144px"/>
     </a>
 </p>
-}
 
+### }
 <!---
 maximizzar/maximizzar is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
