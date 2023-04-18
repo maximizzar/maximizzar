@@ -2,7 +2,7 @@
 - 👋 Hi, I’m @maximizzar
 - 👀 I’m currently and mostly interested in system administration(Linux, Proxmox, docker, lxc, you name it).
 - 🌱 I’m currently learning computer science at my university.
-- 💞️ I’m looking to collaborate with good thoughts to seek happiness :D.
+- 💞️ I’d like to collaborate with good thoughts to seek happiness :D.
 ### }
 ## maximizzar.tech() {
 <img align="left" alt="firefox" width="36px" style="padding-right:12px;" 
