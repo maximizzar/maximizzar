@@ -33,15 +33,9 @@
 - 💞️ I’d like to collaborate with good thoughts to seek happiness. *works quite well* :)
 
 <p>
-    <a href="https://github.com/maximizzar" style="width: 90%">
-        <img 
-             src="https://github-readme-stats.vercel.app/api?username=maximizzar&show_icons=true&theme=gruvbox_light&bg_color=00000000&hide_border=true" 
-             alt="" 
-             />
-        <img 
-             src="https://github-readme-stats.vercel.app/api/top-langs/?username=maximizzar&layout=compact&theme=gruvbox&bg_color=00000000&hide_border=true&langs_count=4" 
-             alt="" 
-             width="50%"/>
+    <a href="https://github.com/maximizzar" style="width: 100%">
+        <img src="https://github-readme-stats.vercel.app/api?username=maximizzar&show_icons=true&theme=gruvbox_light&bg_color=00000000&hide_border=true" alt="github-readme-stats" height="160px"/>
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=maximizzar&layout=compact&theme=gruvbox&bg_color=00000000&hide_border=true&langs_count=4" alt="github-readme-stats-top-langs" height="160px"/>
     </a>
 </p>
 
