@@ -1,50 +1,50 @@
-## maximizzar.me() {
-- 👋 Hi, I’m @maximizzar
-- 👀 I’m currently and mostly interested in system administration(Linux, Proxmox, docker, lxc, you name it).
-- 🌱 I’m currently learning computer science at my university.
-- 💞️ I’d like to collaborate with good thoughts to seek happiness :D.
-### }
-## maximizzar.tech() {
-<img align="left" alt="firefox" width="36px" style="padding-right:12px;" 
-	src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firefox/firefox-plain-wordmark.svg"/>
-	
-<img align="left" alt="java" width="36px" style="padding-right:12px;" 
-	src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
+# Technologies
+[![Authelia](https://img.shields.io/static/v1?style=for-the-badge&logo=authelia&logoColor=FFFFFF&message=authelia&color=113155&label=)](https://www.cloudflare.com/)
+[![Cloudflare](https://img.shields.io/static/v1?style=for-the-badge&logo=cloudflare&logoColor=FFFFFF&message=cloudflare&color=F38020&label=)](https://www.cloudflare.com/)
+[![Debian](https://img.shields.io/static/v1?style=for-the-badge&logo=debian&logoColor=FFFFFF&message=debian&color=A81D33&label=)](https://www.debian.org/)
+[![Docker](https://img.shields.io/static/v1?style=for-the-badge&logo=Docker&logoColor=FFFFFF&message=Docker&color=2496ED&label=)](https://www.docker.com/)
+[![Hetzner](https://img.shields.io/static/v1?style=for-the-badge&logo=hetzner&logoColor=FFFFFF&message=hetzner&color=D50C2D&label=)](https://www.cloudflare.com/)
+[![LXC](https://img.shields.io/static/v1?style=for-the-badge&logo=linuxcontainers&logoColor=FFFFFF&message=linuxcontainers&color=333333&label=)](https://linuxcontainers.org/)
+[![Nginx](https://img.shields.io/static/v1?style=for-the-badge&logo=nginx&logoColor=FFFFFF&message=nginx&color=009639&label=)](https://www.nginx.com/)
+[![Proxmox](https://img.shields.io/static/v1?style=for-the-badge&logo=Proxmox&logoColor=FFFFFF&message=Proxmox&color=E57000&label=)](https://www.proxmox.com/)
 
-<img align="left" alt="linux" width="36px" style="padding-right:12px;" 
-	src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg"/>
+[![C-Sharp](https://img.shields.io/static/v1?style=for-the-badge&logo=csharp&logoColor=FFFFFF&message=c-sharp&color=239120&label=)](https://learn.microsoft.com/en-us/dotnet/csharp/)
+[![HTML5](https://img.shields.io/static/v1?style=for-the-badge&logo=html5&logoColor=FFFFFF&message=html5&color=E34F26&label=)](https://html.spec.whatwg.org/multipage/)
+[![Rust](https://img.shields.io/static/v1?style=for-the-badge&logo=Rust&logoColor=FFFFFF&message=Rust&color=000000&label=)](https://www.rust-lang.org/)
+[![TOML](https://img.shields.io/static/v1?style=for-the-badge&logo=toml&logoColor=FFFFFF&message=toml&color=9C4121&label=)](https://www.rust-lang.org/)
+[![YAML](https://img.shields.io/static/v1?style=for-the-badge&logo=yaml&logoColor=FFFFFF&message=yaml&color=CB171E&label=)](https://www.rust-lang.org/)
 
-<img align="left" alt="docker" width="36px" style="padding-right:12px;" 
-	src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg"/> 
+# Tools and Apps
+[![Brave](https://img.shields.io/static/v1?style=for-the-badge&logo=brave&message=brave&logoColor=FFFFFF&color=FB542B&label=)](https://brave.com/)
+[![Bit-warden](https://img.shields.io/static/v1?style=for-the-badge&logo=bitwarden&message=Bitwarden&logoColor=FFFFFF&color=175DDC&label=)](https://bitwarden.com/)
+[![CLion](https://img.shields.io/static/v1?style=for-the-badge&logo=clion&message=CLion&logoColor=FFFFFF&color=000000&label=)](https://jetbrains.com/)
+[![firefox-browser](https://img.shields.io/static/v1?style=for-the-badge&logo=firefoxbrowser&message=Firefox&logoColor=FFFFFF&color=FF7139&label=)](https://www.mozilla.org/firefox/)
+[![IntelliJ](https://img.shields.io/static/v1?style=for-the-badge&logo=intellijidea&message=Intellij-idea&logoColor=FFFFFF&color=000000&label=)](https://jetbrains.com/)
+[![Git](https://img.shields.io/static/v1?style=for-the-badge&logo=Git&message=Git&logoColor=FFFFFF&color=F05032&label=)](https://git-scm.com/)
+[![Obsidian](https://img.shields.io/static/v1?style=for-the-badge&logo=obsidian&message=Obsidian&logoColor=FFFFFF&color=7C3AED&label=)](https://obsidian.md/)
+[![WebStorm](https://img.shields.io/static/v1?style=for-the-badge&logo=webstorm&message=WebStorm&logoColor=FFFFFF&color=000000&label=)](https://jetbrains.com/)
 
-<img align="left" alt="git" width="36px" style="padding-right:12px;" 
-	src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original-wordmark.svg"/>
+# About me
 
-<img align="left" alt="markdown" width="36px" style="padding-right:12px;" 
-	src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/markdown/markdown-original.svg" />
+- 👋 Hi, I’m @maximizzar or Maximilian
+- 👀 and do some system administration in my little home-lab - just one server and backup-system - (entertainment, tools and network storage).
+- 👀 Also looking forward to get a good grasp on rust as you might notice when checking my GitHub out.
+- 🌱 Currently I'm learning computer science at my university.
+- 💞️ I’d like to collaborate with good thoughts to seek happiness. *works quite well* :)
 
-<img align="left" alt="html5" width="36px" style="padding-right:8px;" 
-	src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" />
-
-<img align="left" alt="nginx" width="36px" style="padding-right:12px;" 
-	src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" />
-<br />
-### }
-## maximizzar.stats() {
-<p align="center">
+<p>
     <a href="https://github.com/maximizzar" style="width: 90%">
         <img 
-             src="https://github-readme-stats.vercel.app/api?username=maximizzar&show_icons=true&theme=transparent" 
+             src="https://github-readme-stats.vercel.app/api?username=maximizzar&show_icons=true&theme=gruvbox_light&bg_color=00000000&hide_border=true" 
              alt="" 
-             height="144px"/>
+             height="50%"/>
         <img 
-             src="https://github-readme-stats.vercel.app/api/top-langs/?username=maximizzar&layout=compact&theme=transparent&langs_count=4" 
+             src="https://github-readme-stats.vercel.app/api/top-langs/?username=maximizzar&layout=compact&theme=gruvbox&bg_color=00000000&hide_border=true&langs_count=4" 
              alt="" 
-             height="144px"/>
+             height="75%" width="50%"/>
     </a>
 </p>
 
-### }
 <!---
 maximizzar/maximizzar is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
