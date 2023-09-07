@@ -1,5 +1,5 @@
 # Technologies
-[![Authelia](https://img.shields.io/static/v1?style=for-the-badge&logo=authelia&logoColor=FFFFFF&message=authelia&color=113155&label=)](https://www.cloudflare.com/)
+[![Authelia](https://img.shields.io/static/v1?style=for-the-badge&logo=authelia&logoColor=FFFFFF&message=authelia&color=113155&label=)](https://www.authelia.com/)
 [![Cloudflare](https://img.shields.io/static/v1?style=for-the-badge&logo=cloudflare&logoColor=FFFFFF&message=cloudflare&color=F38020&label=)](https://www.cloudflare.com/)
 [![Debian](https://img.shields.io/static/v1?style=for-the-badge&logo=debian&logoColor=FFFFFF&message=debian&color=A81D33&label=)](https://www.debian.org/)
 [![Docker](https://img.shields.io/static/v1?style=for-the-badge&logo=Docker&logoColor=FFFFFF&message=Docker&color=2496ED&label=)](https://www.docker.com/)
@@ -11,8 +11,8 @@
 [![C-Sharp](https://img.shields.io/static/v1?style=for-the-badge&logo=csharp&logoColor=FFFFFF&message=c-sharp&color=239120&label=)](https://learn.microsoft.com/en-us/dotnet/csharp/)
 [![HTML5](https://img.shields.io/static/v1?style=for-the-badge&logo=html5&logoColor=FFFFFF&message=html5&color=E34F26&label=)](https://html.spec.whatwg.org/multipage/)
 [![Rust](https://img.shields.io/static/v1?style=for-the-badge&logo=Rust&logoColor=FFFFFF&message=Rust&color=000000&label=)](https://www.rust-lang.org/)
-[![TOML](https://img.shields.io/static/v1?style=for-the-badge&logo=toml&logoColor=FFFFFF&message=toml&color=9C4121&label=)](https://www.rust-lang.org/)
-[![YAML](https://img.shields.io/static/v1?style=for-the-badge&logo=yaml&logoColor=FFFFFF&message=yaml&color=CB171E&label=)](https://www.rust-lang.org/)
+[![TOML](https://img.shields.io/static/v1?style=for-the-badge&logo=toml&logoColor=FFFFFF&message=toml&color=9C4121&label=)](https://toml.io/)
+[![YAML](https://img.shields.io/static/v1?style=for-the-badge&logo=yaml&logoColor=FFFFFF&message=yaml&color=CB171E&label=)](https://yaml.org/)
 
 # Tools and Apps
 [![Brave](https://img.shields.io/static/v1?style=for-the-badge&logo=brave&message=brave&logoColor=FFFFFF&color=FB542B&label=)](https://brave.com/)
