@@ -30,7 +30,6 @@
 - 👀 and do some system administration in my little home-lab - just one server and backup-system - (entertainment, tools and network storage).
 - 👀 Also looking forward to get a good grasp on rust as you might notice when checking my GitHub out.
 - 🌱 Currently I'm learning computer science at my university.
-- 💞️ I’d like to collaborate with good thoughts to seek happiness. *works quite well* :)
 
 <p>
     <a href="https://github.com/maximizzar" style="width: 100%">
