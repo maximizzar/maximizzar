@@ -1,13 +1,11 @@
 # Technologies
 
-## Operation Systems
+## Operation Systems & cloud platforms
 
 [![Debian](https://img.shields.io/static/v1?style=for-the-badge&logo=debian&logoColor=FFFFFF&message=debian&color=A81D33&label=)](https://www.debian.org/)
 [![Proxmox](https://img.shields.io/static/v1?style=for-the-badge&logo=Proxmox&logoColor=FFFFFF&message=Proxmox&color=E57000&label=)](https://www.proxmox.com/)
 [![NixOS](https://img.shields.io/badge/NixOS-5277C3?style=for-the-badge&logo=nixos&logoColor=white)](https://nixos.org)
 [![Docker](https://img.shields.io/static/v1?style=for-the-badge&logo=Docker&logoColor=FFFFFF&message=Docker&color=2496ED&label=)](https://www.docker.com/)
-
-## cloud platforms
 
 [![Hetzner](https://img.shields.io/static/v1?style=for-the-badge&logo=hetzner&logoColor=FFFFFF&message=hetzner&color=D50C2D&label=)](https://www.cloudflare.com/)
 [![OpenStack](https://img.shields.io/badge/OpenStack-ED1944?style=for-the-badge&logo=openstack&logoColor=white)](https://www.openstack.org)
@@ -23,19 +21,18 @@
 [![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)](https://www.gnu.org/software/bash/)
 [![Rust](https://img.shields.io/static/v1?style=for-the-badge&logo=Rust&logoColor=FFFFFF&message=Rust&color=000000&label=)](https://www.rust-lang.org/)
 
-### config and markup
+<!-- infrastructure as code -->
+
+[![Nix](https://img.shields.io/badge/Nix-5277C3?style=for-the-badge&logo=nixos&logoColor=white&utm_source=chatgpt.com)](https://nix.org)
+![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=flat-square&logo=ansible&logoColor=white)
+
+<!-- config and markup -->
 
 [![TOML](https://img.shields.io/static/v1?style=for-the-badge&logo=toml&logoColor=FFFFFF&message=toml&color=9C4121&label=)](https://toml.io/)
 [![YAML](https://img.shields.io/static/v1?style=for-the-badge&logo=yaml&logoColor=FFFFFF&message=yaml&color=CB171E&label=)](https://yaml.org/)
 [![JSON](https://img.shields.io/badge/JSON-000000?style=for-the-badge&logo=json&logoColor=white)](https://www.json.org)
-
 [![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://developer.mozilla.org/de/docs/Web/HTML)
 [![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)](https://commonmark.org)
-
-### infrastructure as code
-
-[![Nix](https://img.shields.io/badge/Nix-5277C3?style=for-the-badge&logo=nixos&logoColor=white&utm_source=chatgpt.com)](https://nix.org)
-![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=flat-square&logo=ansible&logoColor=white)
 
 # tools
 
@@ -50,8 +47,8 @@
 - 👋 Hi, I’m @maximizzar or Maximilian
 - 🌱 Study computer science
 - in my free-time I work on
-  - my nixos based homelab in my freetime
-  - Small tools in
+  - my nixos based homelab
+  - Small cli tools (mostly in rust)
 
 <p>
     <a href="https://github.com/maximizzar" style="width: 100%">
