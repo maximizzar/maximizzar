@@ -1,35 +1,57 @@
 # Technologies
-[![Authelia](https://img.shields.io/static/v1?style=for-the-badge&logo=authelia&logoColor=FFFFFF&message=authelia&color=113155&label=)](https://www.authelia.com/)
-[![Cloudflare](https://img.shields.io/static/v1?style=for-the-badge&logo=cloudflare&logoColor=FFFFFF&message=cloudflare&color=F38020&label=)](https://www.cloudflare.com/)
-[![Debian](https://img.shields.io/static/v1?style=for-the-badge&logo=debian&logoColor=FFFFFF&message=debian&color=A81D33&label=)](https://www.debian.org/)
-[![Docker](https://img.shields.io/static/v1?style=for-the-badge&logo=Docker&logoColor=FFFFFF&message=Docker&color=2496ED&label=)](https://www.docker.com/)
-[![Hetzner](https://img.shields.io/static/v1?style=for-the-badge&logo=hetzner&logoColor=FFFFFF&message=hetzner&color=D50C2D&label=)](https://www.cloudflare.com/)
-[![LXC](https://img.shields.io/static/v1?style=for-the-badge&logo=linuxcontainers&logoColor=FFFFFF&message=linuxcontainers&color=333333&label=)](https://linuxcontainers.org/)
-[![Nginx](https://img.shields.io/static/v1?style=for-the-badge&logo=nginx&logoColor=FFFFFF&message=nginx&color=009639&label=)](https://www.nginx.com/)
-[![Proxmox](https://img.shields.io/static/v1?style=for-the-badge&logo=Proxmox&logoColor=FFFFFF&message=Proxmox&color=E57000&label=)](https://www.proxmox.com/)
 
-[![C-Sharp](https://img.shields.io/static/v1?style=for-the-badge&logo=csharp&logoColor=FFFFFF&message=c-sharp&color=239120&label=)](https://learn.microsoft.com/en-us/dotnet/csharp/)
-[![HTML5](https://img.shields.io/static/v1?style=for-the-badge&logo=html5&logoColor=FFFFFF&message=html5&color=E34F26&label=)](https://html.spec.whatwg.org/multipage/)
+## Operation Systems
+
+[![Debian](https://img.shields.io/static/v1?style=for-the-badge&logo=debian&logoColor=FFFFFF&message=debian&color=A81D33&label=)](https://www.debian.org/)
+[![Proxmox](https://img.shields.io/static/v1?style=for-the-badge&logo=Proxmox&logoColor=FFFFFF&message=Proxmox&color=E57000&label=)](https://www.proxmox.com/)
+[![NixOS](https://img.shields.io/badge/NixOS-5277C3?style=for-the-badge&logo=nixos&logoColor=white)](https://nixos.org)
+[![Docker](https://img.shields.io/static/v1?style=for-the-badge&logo=Docker&logoColor=FFFFFF&message=Docker&color=2496ED&label=)](https://www.docker.com/)
+
+## cloud platforms
+
+[![Hetzner](https://img.shields.io/static/v1?style=for-the-badge&logo=hetzner&logoColor=FFFFFF&message=hetzner&color=D50C2D&label=)](https://www.cloudflare.com/)
+[![OpenStack](https://img.shields.io/badge/OpenStack-ED1944?style=for-the-badge&logo=openstack&logoColor=white)](https://www.openstack.org)
+
+## services
+
+[![Authelia](https://img.shields.io/static/v1?style=for-the-badge&logo=authelia&logoColor=FFFFFF&message=authelia&color=113155&label=)](https://www.authelia.com/)
+[![Nginx](https://img.shields.io/static/v1?style=for-the-badge&logo=nginx&logoColor=FFFFFF&message=nginx&color=009639&label=)](https://www.nginx.com/)
+[![systemd](https://img.shields.io/badge/systemd-000000?style=for-the-badge&logo=systemd&logoColor=white)](https://systemd.io)
+
+## languages
+
+[![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)](https://www.gnu.org/software/bash/)
 [![Rust](https://img.shields.io/static/v1?style=for-the-badge&logo=Rust&logoColor=FFFFFF&message=Rust&color=000000&label=)](https://www.rust-lang.org/)
+
+### config and markup
+
 [![TOML](https://img.shields.io/static/v1?style=for-the-badge&logo=toml&logoColor=FFFFFF&message=toml&color=9C4121&label=)](https://toml.io/)
 [![YAML](https://img.shields.io/static/v1?style=for-the-badge&logo=yaml&logoColor=FFFFFF&message=yaml&color=CB171E&label=)](https://yaml.org/)
+[![JSON](https://img.shields.io/badge/JSON-000000?style=for-the-badge&logo=json&logoColor=white)](https://www.json.org)
 
-# Tools and Apps
-[![Brave](https://img.shields.io/static/v1?style=for-the-badge&logo=brave&message=brave&logoColor=FFFFFF&color=FB542B&label=)](https://brave.com/)
-[![Bit-warden](https://img.shields.io/static/v1?style=for-the-badge&logo=bitwarden&message=Bitwarden&logoColor=FFFFFF&color=175DDC&label=)](https://bitwarden.com/)
-[![CLion](https://img.shields.io/static/v1?style=for-the-badge&logo=clion&message=CLion&logoColor=FFFFFF&color=000000&label=)](https://jetbrains.com/)
-[![firefox-browser](https://img.shields.io/static/v1?style=for-the-badge&logo=firefoxbrowser&message=Firefox&logoColor=FFFFFF&color=FF7139&label=)](https://www.mozilla.org/firefox/)
-[![IntelliJ](https://img.shields.io/static/v1?style=for-the-badge&logo=intellijidea&message=Intellij-idea&logoColor=FFFFFF&color=000000&label=)](https://jetbrains.com/)
+[![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://developer.mozilla.org/de/docs/Web/HTML)
+[![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)](https://commonmark.org)
+
+### infrastructure as code
+
+[![Nix](https://img.shields.io/badge/Nix-5277C3?style=for-the-badge&logo=nixos&logoColor=white&utm_source=chatgpt.com)](https://nix.org)
+![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=flat-square&logo=ansible&logoColor=white)
+
+# tools
+
 [![Git](https://img.shields.io/static/v1?style=for-the-badge&logo=Git&message=Git&logoColor=FFFFFF&color=F05032&label=)](https://git-scm.com/)
+[![neovim](https://img.shields.io/badge/Neovim-57A143?style=for-the-badge&logo=neovim&logoColor=white&utm_source=chatgpt.com)](https://neovim.io)
+[![devenv](https://img.shields.io/badge/devenv-5277C3?style=for-the-badge&logo=nixos&logoColor=white)](https://devenv.sh)
+
 [![Obsidian](https://img.shields.io/static/v1?style=for-the-badge&logo=obsidian&message=Obsidian&logoColor=FFFFFF&color=7C3AED&label=)](https://obsidian.md/)
-[![WebStorm](https://img.shields.io/static/v1?style=for-the-badge&logo=webstorm&message=WebStorm&logoColor=FFFFFF&color=000000&label=)](https://jetbrains.com/)
 
 # About me
 
 - 👋 Hi, I’m @maximizzar or Maximilian
-- 👀 and do some system administration in my little home-lab - just one server and backup-system - (entertainment, tools and network storage).
-- 👀 Also looking forward to get a good grasp on rust as you might notice when checking my GitHub out.
-- 🌱 Currently I'm learning computer science at my university.
+- 🌱 Study computer science
+- in my free-time I work on
+  - my nixos based homelab in my freetime
+  - Small tools in
 
 <p>
     <a href="https://github.com/maximizzar" style="width: 100%">
