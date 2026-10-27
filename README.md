@@ -1,4 +1,10 @@
-# Technologies
+# About me
+
+- 👋 Hi, I’m @maximizzar or Maximilian
+- 🌱 Study computer science
+- in my free-time I work on
+  - my nixos based homelab
+  - Small command-line tools (mostly in rust)
 
 ## Operation Systems & cloud platforms
 
@@ -34,7 +40,7 @@
 [![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://developer.mozilla.org/de/docs/Web/HTML)
 [![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)](https://commonmark.org)
 
-# tools
+## tools
 
 [![Git](https://img.shields.io/static/v1?style=for-the-badge&logo=Git&message=Git&logoColor=FFFFFF&color=F05032&label=)](https://git-scm.com/)
 [![neovim](https://img.shields.io/badge/Neovim-57A143?style=for-the-badge&logo=neovim&logoColor=white&utm_source=chatgpt.com)](https://neovim.io)
@@ -42,13 +48,7 @@
 
 [![Obsidian](https://img.shields.io/static/v1?style=for-the-badge&logo=obsidian&message=Obsidian&logoColor=FFFFFF&color=7C3AED&label=)](https://obsidian.md/)
 
-# About me
-
-- 👋 Hi, I’m @maximizzar or Maximilian
-- 🌱 Study computer science
-- in my free-time I work on
-  - my nixos based homelab
-  - Small cli tools (mostly in rust)
+## Stats
 
 <p>
     <a href="https://github.com/maximizzar" style="width: 100%">
